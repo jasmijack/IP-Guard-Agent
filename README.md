@@ -1,5 +1,6 @@
 # IP-Guard-Agent
 A lightweight demonstration showing how AI agents can incorporate IP-aware logic into retrieval and generation.
+For demo purposes only :-) 
 
 ## Key Features
 - Document filtering using IP-sensitive term detection
